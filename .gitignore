@@ -1,7 +1,9 @@
-!images
+!images/
 *.jpg
 *.png
 *.gif
 *.pdf
 *.hwp
 *.xlsx
+*.psd
+*.ai
